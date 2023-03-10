@@ -1,0 +1,8 @@
+<?php
+
+echo 'Name : ';
+echo 'Moch Ziad';
+echo "\n";
+
+echo "Name : ";
+echo "Moch\t Ziad\n";
